@@ -9,12 +9,12 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="https://github.com/j12138">
     <i class="fab fa-github"></i>
   </a>
-  //<a href="https://vjudge.net/user/WuK">
-  //  <i class="fas fa-smile"></i>
-  //</a>
-  //<a href="https://www.zhihu.com/people/wu.kan/activities">
-  //  <i class="fab fa-zhihu"></i>
-  //</a>
+  # <a href="https://vjudge.net/user/WuK">
+  #   <i class="fas fa-smile"></i>
+  # </a>
+  # <a href="https://www.zhihu.com/people/wu.kan/activities">
+  #   <i class="fab fa-zhihu"></i>
+  # </a>
   <br/>
   <iframe
     src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"

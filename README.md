@@ -1,4 +1,4 @@
-# 星合の空
+# FLYPIG
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧\~
 
@@ -7,20 +7,21 @@
 ## Contact
 
 - Address
-  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+  - **Fudan University - Shanghai, China**
 - Site
-  - **<https://wu-kan.cn>**
-- [Resume](https://wu-kan.github.io/resume/resume.pdf)
+  - **<https://j12138.github.io>**
+- [Resume](https://j12138.github.io/resume/resume.pdf)
 
 <!-- .slide vertical=true -->
 
 - Phone
-  - **+86 18756280097**
+  - **+86 182xxxx0729**
 - WeChat
-  - **Wu-\_-Kan**
+  - **暂无**
 - E-mail:
-  - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
+  - **暂无**
+  <!-- - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)** -->
+  <!-- - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)** -->
 
 <!-- .slide -->
 
